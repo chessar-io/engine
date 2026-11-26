@@ -1,0 +1,5 @@
+# Project contract (agents-hq): read by the HQ from the default branch.
+base_branch = "main"
+
+# One product, its repositories grouped as one HQ project (owner 2026-11-26): the chessar.io cluster.
+cluster = "chessar.io"
